@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod -R 'stat -C %a .'
+find . -type d -exec chmod +x {} +

@@ -1,0 +1,1 @@
+This documents shell permissions

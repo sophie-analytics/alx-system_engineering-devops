@@ -1,2 +1,2 @@
 #!/bin/bash
-tr '\n' '\0' | tr -d -c '[:alnum:]' |  tr '\0' '\n'
+tr -d '\n' | tr ' ' '\n'

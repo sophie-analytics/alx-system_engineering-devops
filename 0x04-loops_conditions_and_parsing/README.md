@@ -1,0 +1,1 @@
+This documents the use of the concept of bash scripting for loops , conditions and  parsing.
